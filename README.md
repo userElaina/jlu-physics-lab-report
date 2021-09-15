@@ -6,4 +6,6 @@
 
 百度网盘 `https://pan.baidu.com/s/1LCnv0OXHqyYcBVYB4OSnkg` 提取码`saya`
 
+解压密码 `userElaina`
+
 markdown的编译器是VS Code插件 [Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced).
